@@ -52,3 +52,18 @@ by transactions rounded to 2 decimal places for each record
 6. What is the percentage of sales by demographic for each year in the dataset?
 7. Which age_band and demographic values contribute the most to Retail
 sales?
+
+# Conclusion 
+
+1. There are various Week number which are missing for the year 2020 most likely they are  1,2,3,4,5,6,7,8,9,10,11
+2. The Total Transaction for the year 2020 is 3,758,13651 ,2019 is 3,656,39285,2018 is 3,464,06460  we have see that the number of transaction is increased which
+is profitable for the bussiness , let see transaction would not affected the sales.
+3. Oceania has the highest number of sales in the March month of total sales 7832828888,
+   as well as in the month of Arpil,May,June,July,August,September  sales increases throughtout the month 
+   April-2599767620
+   May-2215657304
+   June-2371884744
+   July-2563459400
+   August -2432313652
+   Sep -372465518
+4.
