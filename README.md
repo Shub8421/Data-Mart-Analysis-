@@ -70,7 +70,7 @@ is profitable for the bussiness , let see transaction would not affected the sal
    Retail - 1081934227
    Shopify - 5925169
    Retail have the higher number of transaction as compared to Shopify
-5. We can the difference in the percentage
+5. We can see the difference in percentage
    In retail we have the consistent Percentage throught the  month overall 97%
    and for Shopify with the consistent Percentage of 2 %  retail have the higher percentage almost
 6.
