@@ -73,4 +73,8 @@ is profitable for the bussiness , let see transaction would not affected the sal
 5. We can see the difference in percentage
    In retail we have the consistent Percentage throught the  month overall 97%
    and for Shopify with the consistent Percentage of 2 %  retail have the higher percentage almost
-6.
+6. We can say  that from 2018 to 2020 their is 6% growth in the sales for couples.
+   and 3% growth  for Families and 1% growth for unknown .
+   the Percentage is juggling between 30% to 36% not more than 36%
+7.The Unknown age band and Demographic contribute the most for the sales which have the sales of 16067285533.
+   
